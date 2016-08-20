@@ -1,0 +1,30 @@
+//html {overflow:hidden;}
+//#vvv {overflow:auto;}
+//#v00 {overflow:auto;}
+//#v01 {overflow:hidden;}
+#dp01 {color: white; font-size: 1.5em; display: inline-block; text-align: center;}
+#dp02 {color: white; font-size: 1.2em; display: inline-block; text-align: center; padding-top: 10px;}
+#dp03 {color: white; font-size: 1em; display: inline-block;  text-align: center;  padding-top: 10px; padding-bottom:10px;}
+#dp04 {width:100%; border-radius:none; background: #04B431; color: white;  padding-top: 10px; text-align: center}
+#dp05 {background: #088A08;}
+#dp06 {width:100%; border-radius:none; background: #088A08; color: white; padding-top: 10px;}
+#dp07 {width:100%; border-radius:none; background: #088A08; color: white; padding-top: 10px; border-width:0;}
+INPUT:FOCUS {outline: none;}
+#dp08 {color: white;}
+#dp09 {color: white;}
+#dp10 {color: white; font-size: 2em;}
+.dp11 {font-size: 1.5em; text-align: center; padding-top: 10px;}
+#dp12 {color: white;}
+#dp14 {display: none;}
+#dp15 {width:90%; border-radius:none; background: #04B431; color: white;  padding-top: 10px; text-align: center}
+#dp16 {width:82%; border-radius:none; background: #04B431; color: white;  padding-top: 10px; text-align: center}
+#dp17 {opacity: 0.6;}
+#p40 {font-size: 1.2em; display: inline-block; text-align: left; padding-top: 10px; padding-bottom: 20px; width: 100%;}
+#p41 {font-size: 1em; display: inline-block; text-align: left; padding-top: 10px; width: 100%;}
+#p42 {padding-top:40px;}
+#p51 {border-radius:none; background: #088A08; color: white;}
+#p60 {border-radius:none; background: #088A08; color: white;}
+#p78 {border-radius:none; background: #088A08; color: white;}
+input[type=submit] {background-color: #088A08; border: none; color: white; padding: 16px 32px; text-decoration: none; margin: 4px 2px; cursor: pointer;}
+#p150 {color: white;}
+#dp109 {color: #088A08;}

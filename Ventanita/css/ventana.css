@@ -1,0 +1,21 @@
+.ui-dialog {left: 0; outline: 0 none; padding: 0 !important; position: absolute; top: 0; background: #088A08;}
+.ui-dialog .ui-dialog-titlebar {padding: 0.1em .5em; position: relative; font-size: 3em; background: #0B610B; text-align: center;}
+.ui-dialog .ui-dialog-content {border: 0 none; overflow: auto; position: relative; padding: 0 !important; background: #088A08;}
+
+.ui-dialog .ui-dialog-buttonpane {text-align: right; border-width: 1px 0 0 0; background-image: none; margin-top: .5em; padding: .3em 1em .5em .4em; background: #0B610B;}
+
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+	background: #0B610B;
+}
+
+
+.ui-dialog .ui-dialog-titlebar-close {display: none;}
+
+
+.ui-widget {font-family: Verdana,Arial,sans-serif; font-size: .8em;}
+.ui-widget-content {background: #F9F9F9; border: 1px solid #90d93f; color: #222222;}
+#inicio {padding: 0; margin: 0;}
+.ui-widget-header {background: #b0de78; border: 0; color: #fff; font-weight: normal;}
+
+
+
